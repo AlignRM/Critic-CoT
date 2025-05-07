@@ -1,0 +1,6 @@
+openai
+sympy
+pylatexenc
+vllm
+transformers
+scikit-learn
