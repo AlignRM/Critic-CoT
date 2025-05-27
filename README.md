@@ -13,10 +13,11 @@ Self-critic has become a crucial mechanism for enhancing the reasoning performan
 
 ## Citation
 ```bibtex
-@article{zheng2024critic,
+@article{zheng2025critic,
   title={Critic-cot: Boosting the reasoning abilities of large language model via chain-of-thoughts critic},
   author={Zheng, Xin and Lou, Jie and Cao, Boxi and Wen, Xueru and Ji, Yuqiu and Lin, Hongyu and Lu, Yaojie and Han, Xianpei and Zhang, Debing and Sun, Le},
-  journal={arXiv preprint arXiv:2408.16326},
-  year={2024}
+  booktitle={Findings of the Association for Computational Linguistics: ACL 2025},
+  publisher={Association for Computational Linguistics},
+  year={2025}
 }
 ```
